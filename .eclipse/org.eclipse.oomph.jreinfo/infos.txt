@@ -1,3 +1,0 @@
-C:\Program Files\Java\jdk-22;22;0;1;64;true;1714602866159;x86_64
-C:\Program Files\Java\jdk-17.0.5;17;0;5;64;true;1723162524795;x86_64
-C:\Program Files\Java\jdk-21;21;0;3;64;true;1714602084770;x86_64
